@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-vampre&label=Profile%20views&color=0e75b6&style=flat" alt="hi-vampire" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-vampire&label=Profile%20views&color=0e75b6&style=flat" alt="hi-vampire" /> </p>
 
 
 - 🌱 I’m currently pursuing **BTECH(CSE) In 4rd year**
